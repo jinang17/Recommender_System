@@ -54,4 +54,9 @@ Matrix factorization excels in handling sparse data:
 
 
 
-Matrix factorization is ideal for recommendation systems because it leverages both user-user and product similarity to generate accurate and personalized recommendations. By learning latent factors that capture intricate user-item interactions, it uncovers hidden patterns and preferences, leading to high-quality suggestions. This comprehensive approach capitalizes on collaborative filtering and latent features, enabling the system to adapt to user behaviors and preferences, ultimately enhancing the user experience.****
+Matrix factorization is ideal for recommendation systems because it leverages both user-user and product similarity to generate accurate and personalized recommendations. By learning latent factors that capture intricate user-item interactions, it uncovers hidden patterns and preferences, leading to high-quality suggestions. This comprehensive approach capitalizes on collaborative filtering and latent features, enabling the system to adapt to user behaviors and preferences, ultimately enhancing the user experience.
+
+
+Hackathon : Flipkart Grid 5.0
+
+Team Members : [@Spongy01](https://github.com/Spongy01) and [@rachitshah07](https://github.com/rachitshah07)
