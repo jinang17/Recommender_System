@@ -1,5 +1,7 @@
 # Recommendation System Techniques
 
+Dataset : [Kaggle : Amazon kindle reviews](https://www.kaggle.com/datasets/bharadwaj6/kindle-reviews)
+
 ## Aging Technique
 
 The aging technique preserves actual ratings while considering time factors. It involves:
